@@ -3,3 +3,4 @@ Data Scientists Projects with machine learning predictions from supervised and u
 
 - **Supervised Learning Project:** the dataset contains data on all loans contracted over a period of time by a bank's customers. The aim is to obtain a model that can be used to predict whether a customer, based on certain characteristics, is suitable for purchasing the financial product.
 - **Unsupervised Learning Project:** the dataset contains data on customer records from a shopping mall database. The aim is to divide customers into segments to optimise the importance of each customer to the company, to modify products according to different customer needs and behaviours, and to help the company understand its different types of customers.
+- **Time Series Forecasting Project:** the dataset contains all the transactions for an online retail which mainly sells unique all-occasion gifts. The aim is to predict sales.
